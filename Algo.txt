@@ -1,3 +1,8 @@
-1. Call Jets Pizza 
-2. Order large pepperoni pizza (thin crust) 
+1. Call Jets Pizza
+2. Order large pepperoni pizza (thin crust)
 3. Pay for the pizza with credit card
+4. Open the door for th pizza man.
+5. Give the pizza man a five dollar tip
+6. Tell the family the pizza is here.
+7. Set the table.
+8. Enjoy the pizza.
